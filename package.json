@@ -1,0 +1,22 @@
+{
+  "name": "node_lab",
+  "version": "1.0.0",
+  "description": "Node lab to test reddit calls",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apodacajlee/node-lab.git"
+  },
+  "author": "Joshua Apodaca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apodacajlee/node-lab/issues"
+  },
+  "homepage": "https://github.com/apodacajlee/node-lab#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
